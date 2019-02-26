@@ -8,4 +8,12 @@ function sub(a, b){
   number = a - b;
   return number;
 }
-function mul
+function multiply(a, b){
+  number = a*b;
+  return number;
+}
+function divide(a, b){
+  number = a / b;
+  return number;
+}
+function 
