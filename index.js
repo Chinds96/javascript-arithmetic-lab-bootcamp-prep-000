@@ -24,3 +24,4 @@ function dec(a){
   number = a--;
   return number;
 }
+function 
