@@ -20,4 +20,7 @@ function inc(a){
   number = a++;
   return number;
 }
-function 
+function dec(a){
+  number = a--;
+  return number;
+}
