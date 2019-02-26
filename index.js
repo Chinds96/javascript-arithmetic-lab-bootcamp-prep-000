@@ -30,6 +30,6 @@ function makeInt(a){
 }
 
 function preserveDec(a){
-  number = parseFloat(a, 10);
+  number = parseFloat(a);
   return number;
 }
