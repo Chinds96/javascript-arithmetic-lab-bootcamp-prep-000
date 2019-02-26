@@ -21,7 +21,7 @@ function inc(a){
   return number;
 }
 function dec(a){
-  number = a--;
+  number = a - 1;
   return number;
 }
 function makeInt(a){
