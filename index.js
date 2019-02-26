@@ -24,4 +24,6 @@ function dec(a){
   number = a--;
   return number;
 }
-function 
+function makeInt(a){
+  number = 
+}
